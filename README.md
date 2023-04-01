@@ -2,7 +2,7 @@
 ---
 ### ⚡About me:
 
-My name is Antonio Cesar, and I am thrilled to introduce myself as a Data Business Analyst with a passion for driving business success through insightful data analysis.
+My name is Antonio Cesar, and I am thrilled to introduce myself as a Data Analyst with a passion for driving business success through insightful data analysis.
 
 With a Bachelor's degree in accounting, a Master's degree in administration, and ongoing studies towards a Business Intelligence Analyst certificate, I have a deep understanding of the importance of data-driven decision making.
 
